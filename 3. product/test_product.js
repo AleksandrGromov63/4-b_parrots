@@ -1,4 +1,4 @@
-import { products, main } from "./work_with_product";
+import { products, main } from "./work_with_product.js";
 
 let str1 = 'name-starts-BMW&price-<7-&quantity->=17&description-starts-7'
 let str2 = 'name-contains-X5&price-<=55-&quantity->=2&description-contains-полный'
